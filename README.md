@@ -173,6 +173,7 @@ streamlit run app.py
 * [LinkedIn](https://www.linkedin.com/in/lakshay-goel-b10878326)
 * [GitHub](https://github.com/Lakshaygoel4321)
 * [PPT](https://gamma.app/docs/Intelligent-Resource-Optimization-System-IROS-Overview-mr9ezgwwd9tclz5)
+* [YouTube](https://www.youtube.com/watch?v=cvDK2E62e4E)
 ---
 
 ## 📝 License
