@@ -1,10 +1,3 @@
-Great—let’s write you a **professional README** for your **Agentic RAG Chatbot Project**, taking inspiration from the example you shared.
-
-Below is your **complete README.md** you can put in your GitHub repository:
-
----
-
-````markdown
 # 🦜 Agentic RAG Chatbot
 
 An end-to-end Retrieval-Augmented Generation (RAG) chatbot with **Agentic Architecture** for multi-format document Question Answering (QA). This project demonstrates building modular agents, integrating embeddings, and orchestrating LLM-based pipelines in a reproducible way.
