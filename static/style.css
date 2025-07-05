@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.upload-section, .chat-section {
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"], input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#answerArea {
+    margin-top: 20px;
+    padding: 10px;
+    background: #eef;
+    border-radius: 4px;
+}
+
+.answer {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}

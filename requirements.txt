@@ -1,0 +1,13 @@
+langchain_core
+langchain_huggingface
+langchain
+langchain_groq
+langchain_community
+mcp
+langchain_mcp_adapters
+langgraph
+streamlit
+flask
+sentence-transformers
+pypdf
+faiss-cpu
